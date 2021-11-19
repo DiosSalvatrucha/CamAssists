@@ -7,7 +7,7 @@ Al apretar el boton editar carga una segunda pagina muestra dos Url, una permite
 
 En la parte de abajo te aparecera un boto para guardar los cambios, al apretar guardar te direccionara a la pagina principal, mustrando todas las IPs guardadas en la base de datos MySql actualizadas.
 
-Artefactos ocupados: Phpstorm version 8. LINK: https://www.scriptcase.net/download/?gclid=EAIaIQobChMI4rLn85Gl9AIVBg2RCh3XKgX8EAAYASABEgIoD_D_BwE#
-                     PHP version 7.4. LINK: https://www.php.net/downloads
-                     PhpMyAdmin(XAMPP) version 7.3 LINK: https://www.apachefriends.org/xampp-files/7.4.25/xampp-linux-x64-7.4.25-0-installer.run
-                     MySql version 8.0 LINK: https://www.mysql.com/downloads/
+Artefactos ocupados: Phpstorm version 8. LINK: https://www.scriptcase.net/download/?gclid=EAIaIQobChMI4rLn85Gl9AIVBg2RCh3XKgX8EAAYASABEgIoD_D_BwE#.
+                     PHP version 7.4. LINK: https://www.php.net/downloads.
+                     PhpMyAdmin(XAMPP) version 7.3 LINK: https://www.apachefriends.org/xampp-files/7.4.25/xampp-linux-x64-7.4.25-0-installer.run.
+                     MySql version 8.0 LINK: https://www.mysql.com/downloads/.
