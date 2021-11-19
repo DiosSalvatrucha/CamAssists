@@ -9,9 +9,9 @@ En la parte de abajo te aparecera un boto para guardar los cambios, al apretar g
 
 Artefactos ocupados:
 
-Phpstorm version 8. LINK: https://www.jetbrains.com/es-es/phpstorm/download
+Phpstorm version 8.0 LINK: https://www.jetbrains.com/es-es/phpstorm/download
 
-PHP version 7.4. LINK: https://www.php.net/downloads
+PHP version 7.4 LINK: https://www.php.net/downloads
 
 PhpMyAdmin(XAMPP) version 7.3 LINK: https://www.apachefriends.org/xampp-files/7.4.25/xampp-linux-x64-7.4.25-0-installer.run
 
